@@ -2,7 +2,7 @@
 
 Power BI dashboard analyzing student performance across math, reading, and writing scores — broken down by gender, ethnicity, parental education, and test preparation status.
 
-Screenshot 2026-08-22 145618.png
+<img width="1246" height="700" alt="Screenshot 2026-08-22 150230" src="https://github.com/user-attachments/assets/98754bde-6a95-4389-8842-bd3c58c30971" />
 
 ## 📌 Overview
 
@@ -34,8 +34,9 @@ This dashboard analyzes performance data for 100 students, providing insights in
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot above by replacing `Screenshot 2026-08-22 145618.png` with your own image (keep the same filename, or update the path in this file).
+Add your dashboard screenshot above by replacing `<img width="1246" height="700" alt="Screenshot 2026-08-22 150230" src="https://github.com/user-attachments/assets/0e8b0b74-bd0b-46d3-9200-7c98d32cefe3" />
+` with your own image (keep the same filename, or update the path in this file).
 
 ## 👤 Author
 
-*Add your name / GitHub profile link here*
+Ramal Abdullazade
